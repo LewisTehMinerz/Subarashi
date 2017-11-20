@@ -1,0 +1,17 @@
+{
+  "name": "subarashi",
+  "version": "1.0.0",
+  "description": "Subarashi - an IRC library written from scratch.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LewisTehMinerz/Subarashi.git"
+  },
+  "keywords": [
+    "irc",
+    "chat"
+  ],
+  "author": "Lewis Crichton <lewistehminerz@outlook.com> (https://github.com/LewisTehMinerz)",
+  "license": "MIT",
+  "dependencies": {}
+}
