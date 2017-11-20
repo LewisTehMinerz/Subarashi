@@ -1,6 +1,6 @@
 {
   "name": "subarashi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Subarashi - an IRC library written from scratch.",
   "main": "index.js",
   "repository": {
