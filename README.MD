@@ -20,4 +20,4 @@ Client.on('ready', () => {
 Client.connect();
 ```
 
-This gives you a very basic user account called 'Subarashi' on the IRC server. A full documentation list can be found [here](https://lewistehminerz.github.io/subarashi).
+This gives you a very basic user account called 'Subarashi' on the IRC server. A full documentation list can be found [here](https://lewistehminerz.github.io/Subarashi).

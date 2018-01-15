@@ -128,9 +128,9 @@ class Client extends EventEmitter {
     }
     /**
      * Disconnects the client from the server.
-     * @param [string="Subarashi IRC Client"] message The message to send when quitting.
+     * @param {string} [message="Quitting"] The message to send when quitting.
      */
-    quit(message = "Subarashi IRC Client") {
+    quit(message = "Quitting") {
         this.logger('QUIT ' + message, 2);
         this.writeRaw('QUIT : ' + message);
     }
